@@ -9,3 +9,6 @@
  collect data - it takes the starting pressure and calculates threshold 
  above and below that value to decide how much pressure is required to 
  switch between Up/Down/Still. 
+
+Intended to work with this circuitry:
+![circuits](https://github.com/ameinias/DFpong-gblekkenhorst-homeostatis-brain/blob/main/hemostasis-circuitdiagram_bb.png)
